@@ -1,0 +1,15 @@
+url=https://login.salesforce.com
+username=
+password=Password with secret token appended
+metadata=None
+grpc_host=api.pubsub.salesforce.com
+grpc_port=7443
+pb2=pb2
+topic_name=/data/ChangeEvents
+instance_url=https://sparkouttechsolutionspvtltd-dev-ed.develop.my.salesforce.com
+tenant_id=
+apiVersion=55.0
+objects=Contact,Opportunity
+apis=
+subscription_type=CUSTOM
+latest_replay_id=latest replay id
