@@ -1,4 +1,4 @@
-# PCA Salesforce Change Data Capture Listener
+# Salesforce Change Data Capture Listener
 
 ## This Python project can be used to listen to changes occurring in salesforce. These changes can be posted to a REST API.
 
